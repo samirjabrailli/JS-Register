@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#form{
+    margin: 10px;
+    padding: 10px;
+    background-color: #355D55;
+    width: 60%;
+    height: 300px;
+    text-align: center;
+}
+
+#form .username{
+    margin: 10px;
+    font-size: 1.3em;
+}
+
+#form .password{
+    margin: 10px;
+    font-size: 1.3em;
+}
+
+#form .repassword{
+    margin: 10px;
+    font-size: 1.3em;
+}
+
+#form button{
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    background-color:#0F2C28; 
+    color: #FFD478;
+    font-size: 1.3em;
+    cursor: pointer;
+}
